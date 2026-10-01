@@ -1,2 +1,6 @@
 .venv
 .vscode
+CONTEXT.md
+
+/datasets/
+/datasets/IBM-sales-opportunity.csv
